@@ -1,5 +1,0 @@
-; + this is a Comment
-this is not a comment
-#t
-
-"This is a string"
